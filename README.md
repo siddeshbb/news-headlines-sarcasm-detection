@@ -1,2 +1,2 @@
-# news-headlines-sarcasm-detection
+# News Headlines Sarcasm Detection
 News Headlines Sarcasm Detection Using PyToch
